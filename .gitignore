@@ -1,0 +1,8 @@
+*.vbuser
+*.user
+*.cache
+*.suo
+bin
+obj
+Branding
+temp
